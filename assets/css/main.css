@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header{
+    background-color:rgb(255, 255, 255);
+    width: 100%;
+    height: 100px;
+    padding-top: 30px;
+}
+.logo{
+    display: inline-block;   
+}
+header .logo a{
+    font-size: 30px;
+    font-weight: 700;
+}
+nav{
+    width: 83%;
+    margin: 0 auto;
+}
+a{
+    color: black;
+    text-decoration: none
+}
+.nav-list{
+    display: inline-block;
+    float: right;
+    padding-top: 5px;
+}
+.nav-list ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.nav-list ul li a{
+    font-size: 18px;
+    font-weight: 600;
+}
+.background-image{
+    background-image: url('https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+    opacity: 0.8;
+}
+.text h1{
+color: white;
+font-weight: bold;
+font-size: 50px;
+text-align: center !important;
+opacity: 1;
+padding-top: 290px;
+}
+.text2{
+ color: white;
+ font-size: 20px;
+ text-align: center !important;
+ padding-top: 40px;
+ opacity: 1;
+}
+.button{
+width: 150px;
+height: 40px;
+border: none;
+border-radius: 25px;
+padding-top: 50 px;
+background-color: #f4623a;
+color: white;
+font-weight: bold;
+size: 50vh;
+}
+body{
+font-family: 'Times New Roman', Times, serif
+}
+.background{
+font-size: 30px;
+font-weight: 200;
+background-color: orangered;
+width: 100%;
+height: 30px;
+padding-top: 240px;
+}
+.background background text{
+padding: 10%;
+color: white;
+font-weight: bold;
+font-size: 50px;
+text-align: center !important;
+opacity: 1;
+padding-top: 290px;
+}
+.button1{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 25px;
+    padding-top: 50 px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+   size: 50vh;
+}
+ .white{
+    font-size: 20px;
+    font-weight: 100%;
+    background-color:white;
+    width: 100%;
+    height: 100px;
+    padding-top: 400px;
+    text-align: center !important;
+    padding: 20%;
+    color:orangered;
+    } 
+.white{
+    color: black;
+}
+.div-1 {
+    color: black;
+    float: left;
+    width: 45%;
+    }
+    
+.column-2 {
+    color: black;
+    float: right;
+    width: 45%;
+    }
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    }
+.row {
+    content: "";
+    clear: both;
+    display: table;
+    }
+.black{
+    font-size: 20px;
+    font-weight: 100%;
+    background-color:black;
+    width: 100%;
+    height: 100px;
+    padding-top: 400px;
+    text-align: center !important;
+    padding: 20%;
+    color:white;
+}
+.button{
+    background-color: white;
+    color: black;
+}
+.fa-solid{
+    color: orangered;
+}
+.whitedouble{
+    font-size: 20px;
+    font-weight: 100%;
+    background-color:white;
+    width: 100%;
+    height: 100px;
+    padding-top: 400px;
+    text-align: center !important;
+    padding: 20%;
+    color:black;
+}
+.button{
+    width: 150px;
+    height: 40px;
+    border: none;
+    border-radius: 25px;
+    padding-top: 50 px;
+    background-color: #f4623a;
+    color: white;
+    font-weight: bold;
+   size: 50vh;
+}
+form{
+    font-size: 20px;
+    font-weight: 100%;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+}
+
